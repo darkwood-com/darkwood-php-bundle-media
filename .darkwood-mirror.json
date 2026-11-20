@@ -1,7 +1,7 @@
 {
   "canonical_repository": "darkwood-com/darkwood",
   "canonical_path": "library/darkwood-php/src/Darkwood/Bundle/MediaBundle",
-  "canonical_revision": "5abc8f2c7c3df7f51d47ce8ae401db71185abfac",
+  "canonical_revision": "cffe08a295465be2d4c8efcd371f94d1be8cc0aa",
   "destination_repository": "darkwood-com/darkwood-php-bundle-media",
   "destination_branch": "8.1"
 }
